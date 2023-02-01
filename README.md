@@ -16,6 +16,9 @@ Esse projeto traz a ideia básica do CRUD pra web
   
 - Consumo de api 
   - Api do github
+  - Progração assicrono
+  - uso do Fetch
+  - Estrutura Async await
    
 - uso do JSON
   - JSON: Notação do javascript em formato parecido com um objeto
